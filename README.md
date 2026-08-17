@@ -13,7 +13,7 @@ estos cuatro interesantes juegos con el uso de IA.
 
 ### dungeonMath
 <img width="1096" height="600" alt="inicio" src="https://github.com/user-attachments/assets/43a4f582-12fc-41b2-91f5-7ebd977fe689" />
-Es un juego plataformero educativo/puzzle matemático, recibes una operación matemática, y tu objetivo es saltar hasta el cofre con la opción correcta, son 10 niveles y tu objetivo será hacerlos sin equivocarte, si te equivocas no ganas ni pierdes nada, pero si consigues una respuesta correcta ganas un punto. Fue creada con HTML + CSS + JS y corre todo en un archivo .html 
+Es un juego plataformero educativo/puzzle matemático, recibes una operación matemática, y tu objetivo es saltar hasta el cofre con la opción correcta, son 10 niveles y tu objetivo será hacerlos sin equivocarte, si te equivocas no ganas ni pierdes nada, pero si consigues una respuesta correcta ganas un punto. Fue creada con HTML + CSS + JS y corre todo en un archivo .html.
 
 ### Controles
 Para moverte a la izquierda y a la derecha usa ← → o A D, y para salta ↑ o espacio.
@@ -25,7 +25,16 @@ Para moverte a la izquierda y a la derecha usa ← → o A D, y para salta ↑ o
 [Otras versiones por si desea ver 👀](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/tree/main/dungeonMath)
 
 ### Trashketball
-[breve descripción + link a la carpeta]
+<img width="1264" height="784" alt="TrashketballBanner" src="https://github.com/user-attachments/assets/39534746-f95b-46ca-bce1-b39f2a068ade" />
+Es un juego de habilidad o juego de trayectoria, tu objetivo será encestar la mayor cantidad de residuos posible en el basurero correcto antes de que se acabe el tiempo, sin perder las 3 vidas en un límite de tiempo para hacer la mayor cantidad de puntos posibles. Fue creada con HTML + CSS + JS y corre todo en un archivo .html. 
+
+### Controles
+Manten precionado el click izquierdo, apunta y suelta.
+<img width="766" height="350" alt="trashketball" src="https://github.com/user-attachments/assets/9a89d959-87b2-435f-b78e-202c6a85ad5a" />
+#### Juego
+[Versión final (recomendada)](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/blob/main/Trashketball/Trashketball%20v3.html)
+
+[Otras versiones por si desea ver 👀](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/tree/main/Trashketball)
 
 ### verdu-chan
 [breve descripción + link a la carpeta]
