@@ -7,7 +7,7 @@ Hola, me alegra que hayas entrado a mi portafolio. Mi nombre es Felipe o tambié
 Soy estudiante de cuarto semestre de la Universidad Privada del Valle, cursando la materia Game Development. Mis motivaciones principales son probar mis límites e
 inventiva, por eso para iniciar en el mundo del desarrollo de videojuegos y conocer las bases del proceso para crearlos, en conjunto con otros compañeros creamos
 estos cuatro e interesantes juegos con el uso de IA.
-<img width="1983" height="793" alt="bannerGitHub" src="https://github.com/user-attachments/assets/7bac25d9-fc25-461c-9d23-42fff17cf859" />
+<img width="498" height="278" alt="darkSoulDance" src="https://github.com/user-attachments/assets/7bb20244-ba66-4eaf-9bb5-8d5bbd4e6365" />
 
 ## 🎮 Mis juegos
 
