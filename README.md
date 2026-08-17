@@ -12,7 +12,7 @@ estos cuatro e interesantes juegos con el uso de IA.
 ## 🎮 Mis juegos
 
 ### Gotitas Mágicas
-[breve descripción + link a la carpeta]
+[[breve descripción + link a la carpeta]](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/blob/main/Gotitas%20Mágicas/gotitas-magicas%20v1.html)
 
 
 ### Trashketball
