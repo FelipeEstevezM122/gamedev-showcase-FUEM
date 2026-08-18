@@ -13,7 +13,7 @@ estos cuatro interesantes juegos con el uso de IA.
 
 ### 🏰 dungeonMath
 <img width="1096" height="600" alt="inicio" src="https://github.com/user-attachments/assets/43a4f582-12fc-41b2-91f5-7ebd977fe689" />
-Es un "juego plataformero" y "educativo / puzzle matemático", recibes una operación matemática, y tu objetivo es saltar hasta el cofre con la opción correcta, son 10 niveles y tu objetivo será hacerlos sin equivocarte, si te equivocas no ganas ni pierdes nada, pero si consigues una respuesta correcta ganas un punto. Fue creada con HTML + CSS + JS y corre todo en un archivo .html.
+Es un juego <b>plataformero</b> y <b>educativo / puzzle matemático</b>, recibes una operación matemática, y tu objetivo es saltar hasta el cofre con la opción correcta, son 10 niveles y tu objetivo será hacerlos sin equivocarte, si te equivocas no ganas ni pierdes nada, pero si consigues una respuesta correcta ganas un punto. Fue creada con HTML + CSS + JS y corre todo en un archivo .html.
 
 #### Controles
 Para moverte a la izquierda y a la derecha usa ← → o A D, y para salta ↑ o espacio.
@@ -26,7 +26,7 @@ Para moverte a la izquierda y a la derecha usa ← → o A D, y para salta ↑ o
 
 ### ⛹️ Trashketball
 <img width="1264" height="784" alt="TrashketballBanner" src="https://github.com/user-attachments/assets/39534746-f95b-46ca-bce1-b39f2a068ade" />
-Es un "juego de habilidad" o "juego de trayectoria", tu objetivo será encestar la mayor cantidad de residuos posible en el basurero correcto antes de que se acabe el tiempo, sin perder las 3 vidas en un límite de tiempo para hacer la mayor cantidad de puntos posibles. Fue creada con HTML + CSS + JS y corre todo en un archivo .html. 
+Es un <b>juego de habilidad</b> o <b>juego de trayectoria</b>, tu objetivo será encestar la mayor cantidad de residuos posible en el basurero correcto antes de que se acabe el tiempo, sin perder las 3 vidas en un límite de tiempo para hacer la mayor cantidad de puntos posibles. Fue creada con HTML + CSS + JS y corre todo en un archivo .html. 
 
 #### Controles
 Manten precionado el click izquierdo, apunta y suelta.
@@ -38,7 +38,7 @@ Manten precionado el click izquierdo, apunta y suelta.
 
 ### 🥕 Verdu-chan Food Suvivor
 <img width="930" height="637" alt="image" src="https://github.com/user-attachments/assets/08f52086-5484-4797-8861-0870a81fbe77" />
-Es un juego de "Acción Arcade / Supervivencia (Bullet Heaven o estilo Vampire Survivors)", tu objetivo será moverse por la pantalla para esquivar hordas de enemigos (que te persiguen) kiteando, mientras el personaje ataca de forma automática. Al derrotarlos, se deben recolectar las frutas que sueltan para subir de nivel y elegir mejoras (velocidad, daño, proyectiles, etc.).
+Es un juego de <b>Acción Arcade / Supervivencia (Bullet Heaven o estilo Vampire Survivors)</b>, tu objetivo será moverse por la pantalla para esquivar hordas de enemigos (que te persiguen) kiteando, mientras el personaje ataca de forma automática. Al derrotarlos, se deben recolectar las frutas que sueltan para subir de nivel y elegir mejoras (velocidad, daño, proyectiles, etc.).
 
 #### Controles
 Muevete por el mapa usando W A S D.
@@ -49,4 +49,16 @@ Muevete por el mapa usando W A S D.
 [Otras versiones por si desea ver 👀](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/tree/main/Trashketball)
 
 ### 💧 Gotitas Mágicas
-[[breve descripción + link a la carpeta]](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/blob/main/Gotitas%20Mágicas/gotitas-magicas%20v1.html)
+<img width="697" height="882" alt="image" src="https://github.com/user-attachments/assets/85d5d43e-22c6-4ed7-80ee-da97c0e42dd5" />
+Un juego <b>arcade de atrapar</b> donde debes mover la canasta para recolectar las gotas correctas, obteniendo buffs como escudo o ralentización, mientras esquivas objetos que, al impactar, quitan una de tres vidas (también se proporcionan corazones para recuperarlas). El objetivo es llenar una barra para subir de dificultad y aguantar lo máximo posible, obteniendo la mayor cantidad de puntos. Además, mientras avanzas, recibirás pequeños mensajes relacionados con el ahorro del agua.
+
+#### Controles
+Muever con el mouse de izquierda a derecha
+
+<img width="464" height="578" alt="gotitas magicas" src="https://github.com/user-attachments/assets/ee8cccc6-7604-49e3-802a-86509a7b3774" />
+
+#### Juego
+
+[Versión final (recomendada)](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/blob/main/Gotitas%20Mágicas/gotitas-magicas%20v3.html)
+
+[Otras versiones por si desea ver 👀](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/tree/main/Gotitas%20Mágicas)
