@@ -10,5 +10,5 @@ Para moverte a la izquierda y a la derecha usa ← → o A D, y para salta ↑ o
 [Versión final (recomendada)](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/blob/main/dungeonMath/dungeonmathquest%20v3.html)
 
 **Otras versiones:**
-- [v1](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/blob/main/dungeonMath/dungeonmathquest%20v1.html)
+- [v1](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/blob/main/dungeonMath/dungeonmathquest_quiz%20v1.html)
 - [v2](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/blob/main/dungeonMath/dungeonmathquest%20v2.html)
