@@ -1,3 +1,4 @@
+⛹️ Trashketball
 <img width="1264" height="784" alt="TrashketballBanner" src="https://github.com/user-attachments/assets/39534746-f95b-46ca-bce1-b39f2a068ade" />
 Es un <b>juego de habilidad</b> o <b>juego de trayectoria</b>, tu objetivo será encestar la mayor cantidad de residuos posible en el basurero correcto antes de que se acabe el tiempo, sin perder las 3 vidas en un límite de tiempo para hacer la mayor cantidad de puntos posibles. Fue creada con HTML + CSS + JS y corre todo en un archivo .html. 
 
