@@ -8,8 +8,8 @@ Muevete por el mapa usando W A S D.
 <img width="764" height="352" alt="verdu-chan" src="https://github.com/user-attachments/assets/194123ce-7647-40ac-a323-f57e34ba6343" />
 
 #### Juego
-[Versión final (recomendada)](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/blob/main/verdu-chan/verdu-chan%20v3.html)
+[Versión final (recomendada)](https://felipeestevezm122.github.io/gamedev-showcase-FUEM/verdu-chan/verdu-chan%20v3.html)
 
 **Otras versiones:**
-- [v1](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/blob/main/verdu-chan/verdu-chan%20v1.html)
-- [v2](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/blob/main/verdu-chan/verdu-chan%20v2.html)
+- [v1](https://felipeestevezm122.github.io/gamedev-showcase-FUEM/verdu-chan/verdu-chan%20v1.html)
+- [v2](https://felipeestevezm122.github.io/gamedev-showcase-FUEM/verdu-chan/verdu-chan%20v2.html)
