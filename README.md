@@ -50,7 +50,9 @@ Muevete por el mapa usando W A S D.
 
 ### 💧 Gotitas Mágicas
 <img width="697" height="882" alt="image" src="https://github.com/user-attachments/assets/85d5d43e-22c6-4ed7-80ee-da97c0e42dd5" />
+
 Un juego <b>arcade de atrapar</b> donde debes mover la canasta para recolectar las gotas correctas, obteniendo buffs como escudo o ralentización, mientras esquivas objetos que, al impactar, quitan una de tres vidas (también se proporcionan corazones para recuperarlas). El objetivo es llenar una barra para subir de dificultad y aguantar lo máximo posible, obteniendo la mayor cantidad de puntos. Además, mientras avanzas, recibirás pequeños mensajes relacionados con el ahorro del agua. Fue creada con HTML + CSS + JS y corre todo en un archivo .html. 
+
 
 #### Controles
 Muever con el mouse de izquierda a derecha
