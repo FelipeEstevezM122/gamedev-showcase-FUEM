@@ -6,7 +6,10 @@ Es un juego de <b>Acción Arcade / Supervivencia (Bullet Heaven o estilo Vampire
 #### Controles
 Muevete por el mapa usando W A S D.
 <img width="764" height="352" alt="verdu-chan" src="https://github.com/user-attachments/assets/194123ce-7647-40ac-a323-f57e34ba6343" />
-#### Juego
-[Versión final (recomendada)](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/blob/main/Trashketball/Trashketball%20v3.html)
 
-[Otras versiones por si desea ver 👀](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/tree/main/Trashketball)
+#### Juego
+[Versión final (recomendada)](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/blob/main/verdu-chan/verdu-chan%20v3.html)
+
+**Otras versiones:**
+- [v1](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/blob/main/verdu-chan/verdu-chan%20v1.html)
+- [v2](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/blob/main/verdu-chan/verdu-chan%20v2.html)
