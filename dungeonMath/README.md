@@ -9,4 +9,6 @@ Para moverte a la izquierda y a la derecha usa ← → o A D, y para salta ↑ o
 #### Juego
 [Versión final (recomendada)](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/blob/main/dungeonMath/dungeonmathquest%20v3.html)
 
-[Otras versiones por si desea ver 👀](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/tree/main/dungeonMath)
+**Otras versiones:**
+- [v1](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/blob/main/dungeonMath/dungeonmathquest%20v1.html)
+- [v2](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/blob/main/dungeonMath/dungeonmathquest%20v2.html)
