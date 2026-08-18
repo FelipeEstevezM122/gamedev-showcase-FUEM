@@ -1,5 +1,5 @@
 # gamedev-showcase-FUEM
-
+![Género](https://img.shields.io/badge/Género-Arcade%20%2F%20Atrapar-blueviolet)
 <img width="1983" height="793" alt="bannerGitHub" src="https://github.com/user-attachments/assets/d568f950-75f7-44c9-b461-4cfa01740bbf" />
 
 ## 👋 ¿Quién soy?
