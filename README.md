@@ -38,6 +38,7 @@ Manten precionado el click izquierdo, apunta y suelta.
 
 ### 🥕 Verdu-chan Food Suvivor
 <img width="930" height="637" alt="image" src="https://github.com/user-attachments/assets/08f52086-5484-4797-8861-0870a81fbe77" />
+
 Es un juego de <b>Acción Arcade / Supervivencia (Bullet Heaven o estilo Vampire Survivors)</b>, tu objetivo será moverse por la pantalla para esquivar hordas de enemigos (que te persiguen) kiteando, mientras el personaje ataca de forma automática. Al derrotarlos, se deben recolectar las frutas que sueltan para subir de nivel y elegir mejoras (velocidad, daño, proyectiles, etc.). Fue creada con HTML + CSS + JS y corre todo en un archivo .html. 
 
 #### Controles
