@@ -21,7 +21,11 @@ estos cuatro interesantes juegos con el uso de IA.
 ## 🎮 Mis juegos
 
 ### 🏰 dungeonMath
-[Primer juego](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/blob/main/dungeonMath/README.md)
+<img width="1096" height="600" alt="inicio" src="https://github.com/user-attachments/assets/43a4f582-12fc-41b2-91f5-7ebd977fe689" />
+
+Plataformero educativo donde resuelves operaciones matemáticas saltando al cofre con la respuesta correcta, a lo largo de 10 niveles.
+
+📖 [Ver detalles completos](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/tree/main/dungeonMath)
 
 ### ⛹️ Trashketball
 [Segundo juego](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/blob/main/Trashketball/README.md)
