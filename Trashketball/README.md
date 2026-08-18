@@ -7,7 +7,7 @@ Manten precionado el click izquierdo, apunta y suelta.
 <img width="766" height="350" alt="trashketball" src="https://github.com/user-attachments/assets/9a89d959-87b2-435f-b78e-202c6a85ad5a" />
 
 #### Juego
-[Versión final (recomendada)](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/blob/main/dungeonMath/dungeonmathquest%20v3.html)
+[Versión final (recomendada)](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/blob/main/Trashketball/Trashketball%20v3.html)
 
 **Otras versiones:**
 - [v1](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/blob/main/Trashketball/trashketball_quiz%20v1.html)
