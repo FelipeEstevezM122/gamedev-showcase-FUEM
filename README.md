@@ -24,7 +24,7 @@ estos cuatro interesantes juegos con el uso de IA.
 [Primer juego](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/blob/main/dungeonMath/README.md)
 
 ### ⛹️ Trashketball
-[Segundo juego]()
+[Segundo juego](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/blob/main/Trashketball/README.md)
 
 ### 🥕 Verdu-chan Food Suvivor
 <img width="930" height="637" alt="image" src="https://github.com/user-attachments/assets/08f52086-5484-4797-8861-0870a81fbe77" />
@@ -38,6 +38,7 @@ Muevete por el mapa usando W A S D.
 [Versión final (recomendada)](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/blob/main/Trashketball/Trashketball%20v3.html)
 
 [Otras versiones por si desea ver 👀](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/tree/main/Trashketball)
+
 
 ### 💧 Gotitas Mágicas
 <img width="697" height="882" alt="image" src="https://github.com/user-attachments/assets/85d5d43e-22c6-4ed7-80ee-da97c0e42dd5" />
