@@ -10,7 +10,8 @@ Muever con el mouse de izquierda a derecha
 <img width="464" height="578" alt="gotitas magicas" src="https://github.com/user-attachments/assets/ee8cccc6-7604-49e3-802a-86509a7b3774" />
 
 #### Juego
-
 [Versión final (recomendada)](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/blob/main/Gotitas%20Mágicas/gotitas-magicas%20v3.html)
 
-[Otras versiones por si desea ver 👀](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/tree/main/Gotitas%20Mágicas)
+**Otras versiones:**
+- [v1](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/blob/main/Gotitas%20Mágicas/gotitas-magicas%20v1.html)
+- [v2](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/blob/main/Gotitas%20Mágicas/gotitas-magicas%20v2.html)
