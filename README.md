@@ -38,7 +38,7 @@ Manten precionado el click izquierdo, apunta y suelta.
 
 ### 🥕 Verdu-chan Food Suvivor
 <img width="930" height="637" alt="image" src="https://github.com/user-attachments/assets/08f52086-5484-4797-8861-0870a81fbe77" />
-Es un juego de <b>Acción Arcade / Supervivencia (Bullet Heaven o estilo Vampire Survivors)</b>, tu objetivo será moverse por la pantalla para esquivar hordas de enemigos (que te persiguen) kiteando, mientras el personaje ataca de forma automática. Al derrotarlos, se deben recolectar las frutas que sueltan para subir de nivel y elegir mejoras (velocidad, daño, proyectiles, etc.).
+Es un juego de <b>Acción Arcade / Supervivencia (Bullet Heaven o estilo Vampire Survivors)</b>, tu objetivo será moverse por la pantalla para esquivar hordas de enemigos (que te persiguen) kiteando, mientras el personaje ataca de forma automática. Al derrotarlos, se deben recolectar las frutas que sueltan para subir de nivel y elegir mejoras (velocidad, daño, proyectiles, etc.). Fue creada con HTML + CSS + JS y corre todo en un archivo .html. 
 
 #### Controles
 Muevete por el mapa usando W A S D.
@@ -50,7 +50,7 @@ Muevete por el mapa usando W A S D.
 
 ### 💧 Gotitas Mágicas
 <img width="697" height="882" alt="image" src="https://github.com/user-attachments/assets/85d5d43e-22c6-4ed7-80ee-da97c0e42dd5" />
-Un juego <b>arcade de atrapar</b> donde debes mover la canasta para recolectar las gotas correctas, obteniendo buffs como escudo o ralentización, mientras esquivas objetos que, al impactar, quitan una de tres vidas (también se proporcionan corazones para recuperarlas). El objetivo es llenar una barra para subir de dificultad y aguantar lo máximo posible, obteniendo la mayor cantidad de puntos. Además, mientras avanzas, recibirás pequeños mensajes relacionados con el ahorro del agua.
+Un juego <b>arcade de atrapar</b> donde debes mover la canasta para recolectar las gotas correctas, obteniendo buffs como escudo o ralentización, mientras esquivas objetos que, al impactar, quitan una de tres vidas (también se proporcionan corazones para recuperarlas). El objetivo es llenar una barra para subir de dificultad y aguantar lo máximo posible, obteniendo la mayor cantidad de puntos. Además, mientras avanzas, recibirás pequeños mensajes relacionados con el ahorro del agua. Fue creada con HTML + CSS + JS y corre todo en un archivo .html. 
 
 #### Controles
 Muever con el mouse de izquierda a derecha
