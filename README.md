@@ -25,26 +25,26 @@ estos cuatro interesantes juegos con el uso de IA.
 
 Plataformero educativo donde resuelves operaciones matemáticas saltando al cofre con la respuesta correcta, a lo largo de 10 niveles.
 
-[📖 Ver detalles](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/blob/main/README.md)
+📖 [Ver detalles](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/tree/main/dungeonMath)
 
 ### ⛹️ Trashketball
 <img width="1264" height="784" alt="TrashketballBanner" src="https://github.com/user-attachments/assets/39534746-f95b-46ca-bce1-b39f2a068ade" />
 
 Juego de puntería y trayectoria donde debes encestar residuos en el basurero correcto antes de que se acabe el tiempo, sin perder tus 3 vidas.
 
-📖 [Ver detalles completos](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/tree/main/Trashketball)
+📖 [Ver detalles](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/tree/main/Trashketball)
 
 ### 🥕 Verdu-chan Food Survivor
 <img width="930" height="637" alt="image" src="https://github.com/user-attachments/assets/08f52086-5484-4797-8861-0870a81fbe77" />
 
 Acción arcade de supervivencia (estilo Vampire Survivors) donde esquivas hordas de enemigos mientras tu personaje ataca automáticamente, recolectando mejoras para sobrevivir más tiempo.
 
-📖 [Ver detalles completos](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/tree/main/verdu-chan)
+📖 [Ver detalles](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/tree/main/verdu-chan)
 
 ### 💧 Gotitas Mágicas
 <img width="697" height="882" alt="image" src="https://github.com/user-attachments/assets/85d5d43e-22c6-4ed7-80ee-da97c0e42dd5" />
 
 Arcade de atrapar donde recolectas gotas correctas con buffs de ayuda, esquivas obstáculos y subes de dificultad para conseguir el mayor puntaje posible.
 
-📖 [Ver detalles completos](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/tree/main/Gotitas%20Mágicas)
+📖 [Ver detalles](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/tree/main/Gotitas%20Mágicas)
 
