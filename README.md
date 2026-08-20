@@ -25,7 +25,7 @@ estos cuatro interesantes juegos con el uso de IA.
 
 Plataformero educativo donde resuelves operaciones matemáticas saltando al cofre con la respuesta correcta, a lo largo de 10 niveles.
 
-<a href="https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/tree/main/dungeonMath" target="_blank" rel="noopener noreferrer">📖 Ver detalles</a>
+[📖 Ver detalles](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/blob/main/README.md)
 
 ### ⛹️ Trashketball
 <img width="1264" height="784" alt="TrashketballBanner" src="https://github.com/user-attachments/assets/39534746-f95b-46ca-bce1-b39f2a068ade" />
