@@ -11,6 +11,5 @@
     <h4>📦 Juego</h4>
     <p><a href="https://felipeestevezm122.github.io/gamedev-showcase-FUEM/Trashketball/Trashketball%20v3.html"><strong>Versión final (recomendada)</strong></a><br/>
     Otras versiones: <a href="https://felipeestevezm122.github.io/gamedev-showcase-FUEM/Trashketball/trashketball_quiz%20v1.html">v1</a> · <a href="https://felipeestevezm122.github.io/gamedev-showcase-FUEM/Trashketball/trashketball%20v2.html">v2</a></p>
-    <p>📖 <a href="https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/tree/main/Trashketball">Ver detalles</a> &nbsp;·&nbsp; 🕹️ <a href="https://felipeestevezm122.github.io/gamedev-showcase-FUEM/Trashketball/Trashketball%20v3.html">Juega ahora</a></p>
   </div>
 </div>
