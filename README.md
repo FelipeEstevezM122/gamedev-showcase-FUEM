@@ -133,7 +133,7 @@
       <h3>🗓️ Sobrevive al mes</h3>
       Simulador de decisiones financieras, empieza con $600 y dispón de tus gastos.
       <br/><br/>
-      📖 <a href="https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/tree/main/La%20tormenta%20digital">Ver detalles</a>
+      📖 <a href="https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/tree/main/Sobrevive%20al%20mes">Ver detalles</a>
       &nbsp;·&nbsp;
       🕹️ <a href="https://felipeestevezm122.github.io/gamedev-showcase-FUEM/La%20tormenta%20digital/La_Tormenta_Digital_VDefinitiva.html">Juega ahora</a>
     </td>
