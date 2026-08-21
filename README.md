@@ -105,3 +105,19 @@
     </td>
   </tr>
 </table>
+
+<table width="100%">
+  <tr>
+    <td width="45%" valign="top">
+      <img width="1401" height="932" alt="La Tormenta Digital" src="https://github.com/user-attachments/assets/8d343a68-ab87-46d2-91ee-c06aeac57859" />
+    </td>
+    <td width="55%" valign="top">
+      <h3>📱 La Tormenta Digital</h3>
+      Arcade de atrapar donde recolectas gotas correctas con buffs de ayuda, esquivas obstáculos y subes de dificultad para conseguir el mayor puntaje posible.
+      <br/><br/>
+      📖 <a href="https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/tree/main/Gotitas%20Mágicas">Ver detalles</a>
+      &nbsp;·&nbsp;
+      🕹️ <a href="https://felipeestevezm122.github.io/gamedev-showcase-FUEM/Gotitas%20M%C3%A1gicas/gotitas-magicas%20v3.html">Juega ahora</a>
+    </td>
+  </tr>
+</table>
