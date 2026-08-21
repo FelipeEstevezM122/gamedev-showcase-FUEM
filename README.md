@@ -115,9 +115,9 @@
       <h3>📱 La Tormenta Digital</h3>
       Arcade de atrapar donde recolectas gotas correctas con buffs de ayuda, esquivas obstáculos y subes de dificultad para conseguir el mayor puntaje posible.
       <br/><br/>
-      📖 <a href="https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/tree/main/Gotitas%20Mágicas">Ver detalles</a>
+      📖 <a href="https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/tree/main/La%20tormenta%20digital">Ver detalles</a>
       &nbsp;·&nbsp;
-      🕹️ <a href="https://felipeestevezm122.github.io/gamedev-showcase-FUEM/Gotitas%20M%C3%A1gicas/gotitas-magicas%20v3.html">Juega ahora</a>
+      🕹️ <a href="https://felipeestevezm122.github.io/gamedev-showcase-FUEM/La%20tormenta%20digital/La_Tormenta_Digital_VDefinitiva.html">Juega ahora</a>
     </td>
   </tr>
 </table>
