@@ -1,9 +1,3 @@
-<!--
-  Este bloque <style> es invisible en GitHub.com (el sanitizador de README
-  elimina las etiquetas <style> por seguridad), pero SÍ se aplica en
-  GitHub Pages, porque Jekyll renderiza el HTML tal cual. Por eso el README
-  se ve igual que siempre en el repo, y con fondo oscuro en Pages.
--->
 <style>
   body {
     background-color: #0b0a08 !important;
