@@ -106,10 +106,12 @@
   </tr>
 </table>
 
+
+
 <table width="100%">
   <tr>
     <td width="45%" valign="top">
-      <img width="1401" height="932" alt="La Tormenta Digital" src="https://github.com/user-attachments/assets/8d343a68-ab87-46d2-91ee-c06aeac57859" />
+      <img width="100%" alt="La Tormenta Digital" src="https://github.com/user-attachments/assets/8d343a68-ab87-46d2-91ee-c06aeac57859" />
     </td>
     <td width="55%" valign="top">
       <h3>📱 La Tormenta Digital</h3>
