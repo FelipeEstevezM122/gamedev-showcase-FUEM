@@ -21,8 +21,8 @@
 
 <table width="100%">
   <tr>
-    <td width="220" valign="top" align="center">
-      <img width="200" alt="darkSoulDance" src="https://github.com/user-attachments/assets/7bb20244-ba66-4eaf-9bb5-8d5bbd4e6365" />
+    <td width="420" valign="top" align="center">
+      <img width="400" alt="darkSoulDance" src="https://github.com/user-attachments/assets/7bb20244-ba66-4eaf-9bb5-8d5bbd4e6365" />
     </td>
     <td valign="top">
       Hola, me alegra que hayas entrado a mi portafolio. Mi nombre es Felipe o también conocido como <strong>RequiemOfU</strong>, soy fanático de los Roguelike, Supervivencia y Hack and Slash.
