@@ -123,3 +123,19 @@
     </td>
   </tr>
 </table>
+
+<table width="100%">
+  <tr>
+    <td width="45%" valign="top">
+      <img width="100%" alt="Sobrevive al mes" src="https://github.com/user-attachments/assets/8d343a68-ab87-46d2-91ee-c06aeac57859" />
+    </td>
+    <td width="55%" valign="top">
+      <h3>🗓️ Sobrevive al mes</h3>
+      Juego de decisiones donde recibes notificaciones de odio contra Rubén, un estudiante con un proyecto escolar.
+      <br/><br/>
+      📖 <a href="https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/tree/main/La%20tormenta%20digital">Ver detalles</a>
+      &nbsp;·&nbsp;
+      🕹️ <a href="https://felipeestevezm122.github.io/gamedev-showcase-FUEM/La%20tormenta%20digital/La_Tormenta_Digital_VDefinitiva.html">Juega ahora</a>
+    </td>
+  </tr>
+</table>
