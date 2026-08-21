@@ -113,7 +113,7 @@
     </td>
     <td width="55%" valign="top">
       <h3>📱 La Tormenta Digital</h3>
-      Arcade de atrapar donde recolectas gotas correctas con buffs de ayuda, esquivas obstáculos y subes de dificultad para conseguir el mayor puntaje posible.
+      Juego de decisiones donde recibes notificaciones de odio contra Rubén, un estudiante con un proyecto escolar.
       <br/><br/>
       📖 <a href="https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/tree/main/La%20tormenta%20digital">Ver detalles</a>
       &nbsp;·&nbsp;
