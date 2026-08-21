@@ -131,7 +131,7 @@
     </td>
     <td width="55%" valign="top">
       <h3>🗓️ Sobrevive al mes</h3>
-      Simulador de decisiones financieras, empieza con $600 y dispón de tus gastarlos.
+      Simulador de decisiones financieras, empieza con $600 y dispón de tus gastos.
       <br/><br/>
       📖 <a href="https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/tree/main/La%20tormenta%20digital">Ver detalles</a>
       &nbsp;·&nbsp;
