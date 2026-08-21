@@ -1,57 +1,133 @@
-# gamedev-showcase-FUEM
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Game Development](https://img.shields.io/badge/Game%20Development-6A0DAD?style=for-the-badge&logo=unity&logoColor=white)
-![Roguelike](https://img.shields.io/badge/Género-Roguelike-orange)
-![Supervivencia](https://img.shields.io/badge/Género-Supervivencia-darkred)
-![Hack and Slash](https://img.shields.io/badge/Género-Hack%20and%20Slash-crimson)
+<!--
+  Este bloque <style> es invisible en GitHub.com (el sanitizador de README
+  elimina las etiquetas <style> por seguridad), pero SÍ se aplica en
+  GitHub Pages, porque Jekyll renderiza el HTML tal cual. Por eso el README
+  se ve igual que siempre en el repo, y con fondo oscuro en Pages.
+-->
+<style>
+  body {
+    background-color: #0b0a08 !important;
+    color: #dcd1ba !important;
+  }
+  table, td, tr {
+    background-color: transparent !important;
+    border-color: #2a2620 !important;
+  }
+  h1, h2, h3, h4 {
+    color: #dcd1ba !important;
+  }
+  a {
+    color: #e2632a !important;
+  }
+  hr {
+    border-color: #2a2620 !important;
+  }
+</style>
 
-<img width="1983" height="793" alt="bannerGitHub" src="https://github.com/user-attachments/assets/d568f950-75f7-44c9-b461-4cfa01740bbf" />
+<h1 align="center">gamedev-showcase-FUEM</h1>
 
-## 👋 ¿Quién soy?
-Hola, me alegra que hayas entrado a mi portafolio. Mi nombre es Felipe o también conocido como <strong>RequiemOfU</strong>, soy fanático de los Roguelike, Supervivencia y Hack and Slash.
-Soy estudiante de cuarto semestre de la Universidad Privada del Valle, cursando la materia Game Development. Mis motivaciones principales son probar mis límites e
-inventiva, por eso para iniciar en el mundo del desarrollo de videojuegos y conocer las bases del proceso para crearlos, en conjunto con otros compañeros creamos
-estos cuatro interesantes juegos con el uso de IA.
-<img width="498" height="278" alt="darkSoulDance" src="https://github.com/user-attachments/assets/7bb20244-ba66-4eaf-9bb5-8d5bbd4e6365" />
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Game%20Development-6A0DAD?style=for-the-badge&logo=unity&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/G%C3%A9nero-Roguelike-orange" />
+  <img src="https://img.shields.io/badge/G%C3%A9nero-Supervivencia-darkred" />
+  <img src="https://img.shields.io/badge/G%C3%A9nero-Hack%20and%20Slash-crimson" />
+</p>
 
-## 🎮 Mis juegos
+<p align="center">
+  <img width="100%" alt="bannerGitHub" src="https://github.com/user-attachments/assets/d568f950-75f7-44c9-b461-4cfa01740bbf" />
+</p>
 
-### 🏰 dungeonMath
-<img width="1096" height="600" alt="inicio" src="https://github.com/user-attachments/assets/43a4f582-12fc-41b2-91f5-7ebd977fe689" />
+<h2>👋 ¿Quién soy?</h2>
 
-Plataformero educativo donde resuelves operaciones matemáticas saltando al cofre con la respuesta correcta, a lo largo de 10 niveles.
+<table width="100%">
+  <tr>
+    <td width="220" valign="top" align="center">
+      <img width="200" alt="darkSoulDance" src="https://github.com/user-attachments/assets/7bb20244-ba66-4eaf-9bb5-8d5bbd4e6365" />
+    </td>
+    <td valign="top">
+      Hola, me alegra que hayas entrado a mi portafolio. Mi nombre es Felipe o también conocido como <strong>RequiemOfU</strong>, soy fanático de los Roguelike, Supervivencia y Hack and Slash.
+      <br/><br/>
+      Soy estudiante de cuarto semestre de la Universidad Privada del Valle, cursando la materia Game Development. Mis motivaciones principales son probar mis límites e inventiva, por eso para iniciar en el mundo del desarrollo de videojuegos y conocer las bases del proceso para crearlos, en conjunto con otros compañeros creamos estos cuatro interesantes juegos con el uso de IA.
+    </td>
+  </tr>
+</table>
 
-📖 [Ver detalles](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/tree/main/dungeonMath)
+<hr/>
 
-🕹️ [Juega ahora](https://felipeestevezm122.github.io/gamedev-showcase-FUEM/dungeonMath/dungeonmathquest%20v3.html)
+<h2>🎮 Mis juegos</h2>
 
-### ⛹️ Trashketball
-<img width="1264" height="784" alt="TrashketballBanner" src="https://github.com/user-attachments/assets/39534746-f95b-46ca-bce1-b39f2a068ade" />
+<table width="100%">
+  <tr>
+    <td width="45%" valign="top">
+      <img width="100%" alt="inicio" src="https://github.com/user-attachments/assets/43a4f582-12fc-41b2-91f5-7ebd977fe689" />
+    </td>
+    <td width="55%" valign="top">
+      <h3>🏰 dungeonMath</h3>
+      Plataformero educativo donde resuelves operaciones matemáticas saltando al cofre con la respuesta correcta, a lo largo de 10 niveles.
+      <br/><br/>
+      📖 <a href="https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/tree/main/dungeonMath">Ver detalles</a>
+      &nbsp;·&nbsp;
+      🕹️ <a href="https://felipeestevezm122.github.io/gamedev-showcase-FUEM/dungeonMath/dungeonmathquest%20v3.html">Juega ahora</a>
+    </td>
+  </tr>
+</table>
 
-Juego de puntería y trayectoria donde debes encestar residuos en el basurero correcto antes de que se acabe el tiempo, sin perder tus 3 vidas.
+<br/>
 
-📖 [Ver detalles](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/tree/main/Trashketball)
+<table width="100%">
+  <tr>
+    <td width="45%" valign="top">
+      <img width="100%" alt="TrashketballBanner" src="https://github.com/user-attachments/assets/39534746-f95b-46ca-bce1-b39f2a068ade" />
+    </td>
+    <td width="55%" valign="top">
+      <h3>⛹️ Trashketball</h3>
+      Juego de puntería y trayectoria donde debes encestar residuos en el basurero correcto antes de que se acabe el tiempo, sin perder tus 3 vidas.
+      <br/><br/>
+      📖 <a href="https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/tree/main/Trashketball">Ver detalles</a>
+      &nbsp;·&nbsp;
+      🕹️ <a href="https://felipeestevezm122.github.io/gamedev-showcase-FUEM/Trashketball/Trashketball%20v3.html">Juega ahora</a>
+    </td>
+  </tr>
+</table>
 
-🕹️ [Juega ahora](https://felipeestevezm122.github.io/gamedev-showcase-FUEM/Trashketball/Trashketball%20v3.html)
+<br/>
 
-### 🥕 Verdu-chan Food Survivor
-<img width="930" height="637" alt="image" src="https://github.com/user-attachments/assets/08f52086-5484-4797-8861-0870a81fbe77" />
+<table width="100%">
+  <tr>
+    <td width="45%" valign="top">
+      <img width="100%" alt="Verdu-chan" src="https://github.com/user-attachments/assets/08f52086-5484-4797-8861-0870a81fbe77" />
+    </td>
+    <td width="55%" valign="top">
+      <h3>🥕 Verdu-chan Food Survivor</h3>
+      Acción arcade de supervivencia (estilo Vampire Survivors) donde esquivas hordas de enemigos mientras tu personaje ataca automáticamente, recolectando mejoras para sobrevivir más tiempo.
+      <br/><br/>
+      📖 <a href="https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/tree/main/verdu-chan">Ver detalles</a>
+      &nbsp;·&nbsp;
+      🕹️ <a href="https://felipeestevezm122.github.io/gamedev-showcase-FUEM/verdu-chan/verdu-chan%20v3.html">Juega ahora</a>
+    </td>
+  </tr>
+</table>
 
-Acción arcade de supervivencia (estilo Vampire Survivors) donde esquivas hordas de enemigos mientras tu personaje ataca automáticamente, recolectando mejoras para sobrevivir más tiempo.
+<br/>
 
-📖 [Ver detalles](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/tree/main/verdu-chan)
-
-🕹️ [Juega ahora](https://felipeestevezm122.github.io/gamedev-showcase-FUEM/verdu-chan/verdu-chan%20v3.html)
-
-### 💧 Gotitas Mágicas
-<img width="697" height="882" alt="image" src="https://github.com/user-attachments/assets/85d5d43e-22c6-4ed7-80ee-da97c0e42dd5" />
-
-Arcade de atrapar donde recolectas gotas correctas con buffs de ayuda, esquivas obstáculos y subes de dificultad para conseguir el mayor puntaje posible.
-
-📖 [Ver detalles](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/tree/main/Gotitas%20Mágicas)
-
-🕹️ [Juega ahora](https://felipeestevezm122.github.io/gamedev-showcase-FUEM/Gotitas%20M%C3%A1gicas/gotitas-magicas%20v3.html)
+<table width="100%">
+  <tr>
+    <td width="45%" valign="top">
+      <img width="100%" alt="Gotitas Mágicas" src="https://github.com/user-attachments/assets/85d5d43e-22c6-4ed7-80ee-da97c0e42dd5" />
+    </td>
+    <td width="55%" valign="top">
+      <h3>💧 Gotitas Mágicas</h3>
+      Arcade de atrapar donde recolectas gotas correctas con buffs de ayuda, esquivas obstáculos y subes de dificultad para conseguir el mayor puntaje posible.
+      <br/><br/>
+      📖 <a href="https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/tree/main/Gotitas%20Mágicas">Ver detalles</a>
+      &nbsp;·&nbsp;
+      🕹️ <a href="https://felipeestevezm122.github.io/gamedev-showcase-FUEM/Gotitas%20M%C3%A1gicas/gotitas-magicas%20v3.html">Juega ahora</a>
+    </td>
+  </tr>
+</table>
