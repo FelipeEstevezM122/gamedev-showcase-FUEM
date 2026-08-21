@@ -1,23 +1,3 @@
-<style>
-  body {
-    background-color: #0b0a08 !important;
-    color: #dcd1ba !important;
-  }
-  table, td, tr {
-    background-color: transparent !important;
-    border-color: #2a2620 !important;
-  }
-  h1, h2, h3, h4 {
-    color: #dcd1ba !important;
-  }
-  a {
-    color: #e2632a !important;
-  }
-  hr {
-    border-color: #2a2620 !important;
-  }
-</style>
-
 <h1 align="center">gamedev-showcase-FUEM</h1>
 
 <p align="center">
