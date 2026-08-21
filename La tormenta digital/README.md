@@ -1,5 +1,5 @@
 
-### 🌩️ La Tormenta Digital
+### 📱 La Tormenta Digital
 
 | ![La Tormenta Digital](https://github.com/user-attachments/assets/fb7d12f7-56d7-4954-8fd7-35a3bd72e7fd) |
 |:--:|
