@@ -1,6 +1,6 @@
 ### 🗓️ Sobrevive al Mes
 
-| ![Sobrevive al Mes](https://github.com/user-attachments/assets/COLOCA_AQUI_LA_IMAGEN_PRINCIPAL) |
+| ![Sobrevive al Mes](https://github.com/user-attachments/assets/d5df14e6-9018-4dd5-8ac1-38da4f2107bb) |
 |:--:|
 | *Simulación financiera de supervivencia* |
 
@@ -9,13 +9,12 @@ Es un **juego de simulación financiera** donde tu objetivo es sobrevivir 30 dí
 **🎮 Controles:**  
 En cada evento, elige una opción entre las disponibles. Cada decisión tiene consecuencias económicas y emocionales:
 - 💰 **Liquidez:** Dinero disponible para gastar
-- 🏦 **Ahorros:** Dinero guardado hacia la meta
+- 🏦 **Ahorros:** Dinero guardado hacia la meta ($200)
 - 💳 **Deuda:** Pasivos que restan salud financiera
 - ❤️ **Salud Global:** Tu bienestar general (0-100%)
 
-![Controles Sobrevive al Mes](https://github.com/user-attachments/assets/COLOCA_AQUI_LA_IMAGEN_CONTROLES)
+![Controles Sobrevive al Mes](https://github.com/user-attachments/assets/1c36564b-a86c-42f5-b06a-90502e090ca9)
 
 **📦 Juego:**  
-- [Versión final (recomendada)](https://felipeestevezm122.github.io/gamedev-showcase-FUEM/Sobrevive_al_mes_v3.html)
-
-📖 [Ver detalles](https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/tree/main/Sobrevive%20al%20mes) · 🕹️ [Juega ahora](https://felipeestevezm122.github.io/gamedev-showcase-FUEM/Sobrevive_al_mes_v3.html)
+- [Versión final (recomendada)](https://felipeestevezm122.github.io/gamedev-showcase-FUEM/Sobrevive%20al%20mes/Sobrevive_al_mes_v3.html)  
+- Otras versiones: [v1](https://felipeestevezm122.github.io/gamedev-showcase-FUEM/Sobrevive%20al%20mes/Sobrevive_al_mes_v1.html) · [v2](https://felipeestevezm122.github.io/gamedev-showcase-FUEM/Sobrevive%20al%20mes/Sobrevive_al_mes_v2.html)
