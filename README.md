@@ -135,7 +135,8 @@
       <br/><br/>
       📖 <a href="https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/tree/main/Sobrevive%20al%20mes">Ver detalles</a>
       &nbsp;·&nbsp;
-      🕹️ <a href="https://felipeestevezm122.github.io/gamedev-showcase-FUEM/La%20tormenta%20digital/La_Tormenta_Digital_VDefinitiva.html">Juega ahora</a>
+      🕹️ <a href="https://felipeestevezm122.github.io/gamedev-showcase-FUEM/Sobrevive%20al%20mes/Sobrevive_al_mes_v3.html">Juega ahora</a>
+                  
     </td>
   </tr>
 </table>
