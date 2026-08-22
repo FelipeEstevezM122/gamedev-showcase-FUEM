@@ -47,7 +47,7 @@
       <br/><br/>
       📖 <a href="https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/tree/main/dungeonMath">Ver detalles</a>
       &nbsp;·&nbsp;
-      🕹️ <a href="https://felipeestevezm122.github.io/gamedev-showcase-FUEM/dungeonMath/dungeonmathquest%20v3.html">Juega ahora</a>
+      🕹️ <a href="https://felipeestevezm122.github.io/gamedev-showcase-FUEM/dungeonMath/dungeonmathquest%20v3.html" target="_blank" rel="noopener noreferrer">Juega ahora</a>
     </td>
   </tr>
 </table>
@@ -65,7 +65,7 @@
       <br/><br/>
       📖 <a href="https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/tree/main/Trashketball">Ver detalles</a>
       &nbsp;·&nbsp;
-      🕹️ <a href="https://felipeestevezm122.github.io/gamedev-showcase-FUEM/Trashketball/Trashketball%20v3.html">Juega ahora</a>
+      🕹️ <a href="https://felipeestevezm122.github.io/gamedev-showcase-FUEM/Trashketball/Trashketball%20v3.html" target="_blank" rel="noopener noreferrer">Juega ahora</a>
     </td>
   </tr>
 </table>
@@ -83,7 +83,7 @@
       <br/><br/>
       📖 <a href="https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/tree/main/verdu-chan">Ver detalles</a>
       &nbsp;·&nbsp;
-      🕹️ <a href="https://felipeestevezm122.github.io/gamedev-showcase-FUEM/verdu-chan/verdu-chan%20v3.html">Juega ahora</a>
+      🕹️ <a href="https://felipeestevezm122.github.io/gamedev-showcase-FUEM/verdu-chan/verdu-chan%20v3.html" target="_blank" rel="noopener noreferrer">Juega ahora</a>
     </td>
   </tr>
 </table>
@@ -101,12 +101,10 @@
       <br/><br/>
       📖 <a href="https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/tree/main/Gotitas%20Mágicas">Ver detalles</a>
       &nbsp;·&nbsp;
-      🕹️ <a href="https://felipeestevezm122.github.io/gamedev-showcase-FUEM/Gotitas%20M%C3%A1gicas/gotitas-magicas%20v3.html">Juega ahora</a>
+      🕹️ <a href="https://felipeestevezm122.github.io/gamedev-showcase-FUEM/Gotitas%20M%C3%A1gicas/gotitas-magicas%20v3.html" target="_blank" rel="noopener noreferrer">Juega ahora</a>
     </td>
   </tr>
 </table>
-
-
 
 <table width="100%">
   <tr>
@@ -119,7 +117,7 @@
       <br/><br/>
       📖 <a href="https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/tree/main/La%20tormenta%20digital">Ver detalles</a>
       &nbsp;·&nbsp;
-      🕹️ <a href="https://felipeestevezm122.github.io/gamedev-showcase-FUEM/La%20tormenta%20digital/La_Tormenta_Digital_VDefinitiva.html">Juega ahora</a>
+      🕹️ <a href="https://felipeestevezm122.github.io/gamedev-showcase-FUEM/La%20tormenta%20digital/La_Tormenta_Digital_VDefinitiva.html" target="_blank" rel="noopener noreferrer">Juega ahora</a>
     </td>
   </tr>
 </table>
@@ -135,7 +133,7 @@
       <br/><br/>
       📖 <a href="https://github.com/FelipeEstevezM122/gamedev-showcase-FUEM/tree/main/Sobrevive%20al%20mes">Ver detalles</a>
       &nbsp;·&nbsp;
-      🕹️ <a href="https://felipeestevezm122.github.io/gamedev-showcase-FUEM/Sobrevive%20al%20mes/Sobrevive_al_mes_v3.html">Juega ahora</a>
+      🕹️ <a href="https://felipeestevezm122.github.io/gamedev-showcase-FUEM/Sobrevive%20al%20mes/Sobrevive_al_mes_v3.html" target="_blank" rel="noopener noreferrer">Juega ahora</a>
     </td>
   </tr>
 </table>
